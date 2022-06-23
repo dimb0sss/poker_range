@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Poker Range</string>
+    <string name="open_raise_utg_bu">Open Raise UTG-BU</string>
+    <string name="open_raise_sb">Open Raise SB</string>
+    <string name="OR_40bbU">40BB+</string>
+    <string name="OR_20bbU">20-40BB</string>
+    <string name="OR_10bbU">10-20BB</string>
+    <string name="button_BU40">BU</string>
+    <string name="button_CO40">CO</string>
+    <string name="button_HJ40">HJ</string>
+    <string name="button_UTG40">UTG</string>
+    <string name="button_UTG2BB40">UTG+2</string>
+    <string name="button_UTG1BB40">UTG+1</string>
+    <string name="button_MP40">MP</string>
+    <string name="SB_MIX">MIX</string>
+    <string name="SB_40">40-100BB SB</string>'
+    <string name="button_tight">TIGHT</string>
+    <string name="button_good">GOOD OPP</string>
+    <string name="button_loose">LOOSE PASS</string>
+    <string name="text_BU40">40BB+ BU</string>
+    <string name="text_CO40">40BB+ CO</string>
+    <string name="text_HJ40">40BB+ HJ</string>
+    <string name="text_MP40">40BB+ MP</string>
+    <string name="text_UTG2BB40">40BB+ UTG+2 </string>
+    <string name="text_UTG1BB40">40BB+ UTG+1 </string>
+    <string name="text_UTG40">40BB+ UTG </string>
+    </resources>
